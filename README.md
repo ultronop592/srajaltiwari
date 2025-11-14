@@ -1,7 +1,8 @@
 # srajaltiwari
 
 # 💫 About Me:
-I'm Currently 3rd Year Student Pursuing Btech CSE(AI) From BBD University. <br>Seeking for Internship In AI And Ml field to gain practical knowledge and production level skiils .<br>
+I am a passionate 3rd-year B.Tech CSE (Artificial Intelligence) student at BBD University, deeply interested in AI, Machine Learning, and real-world intelligent systems. I am actively seeking internship opportunities in AI/ML to gain hands-on experience, enhance my practical understanding, and develop strong production-level skills.
+With a growing foundation in algorithms, deep learning, model development, and deployment, I am eager to work on impactful projects and contribute to innovative solutions that solve real-world problems. .<br>
 
 
 ## 🌐 Socials:
